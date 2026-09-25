@@ -1,7 +1,7 @@
 <h1>Anshul Laikar</h1>
 
 <p>
-  <b>Founder &amp; Lead Engineer, <a href="https://wlbs.dev">WLBS</a></b> · Tech Lead, Shabd AI · Mumbai
+  <b>Founder &amp; Lead Engineer, <a href="https://wlbs.dev">WLBS</a></b> · Tech Lead, <a href="https://vogueshots.in">Vogueshots</a> · Mumbai
 </p>
 
 <p>
@@ -13,7 +13,7 @@
 I build dependable software for businesses in India and the US. That includes live event experiences for global consumer brands, AI translation for financial services, and IoT systems for agriculture. I care about three things: understanding the client's problem, engineering that holds up in production, and a product the client can run confidently after we hand it over.
 
 - **WLBS.** I founded WLBS in 2023. It is a technology consultancy that has delivered **6+ production products and 10+ websites** so far, with a team of five engineers. We also partner with leading Indian design studios to build their designs for production.
-- **Shabd AI.** I lead engineering on a multilingual translation platform that covers **22+ Indian languages** and serves banks and NBFCs. The work includes voice AI and translation pipelines built on LLMs that can run multi-step tasks. Shabd AI was recognised at **India AI Summit 2026** as one of the *AI By Her Top 30 Startups*.
+- **Vogueshots.** Since August 2026 I have been the Tech Lead for [Vogueshots](https://vogueshots.in), working with them as a partner.
 
 ---
 
@@ -33,8 +33,9 @@ I build dependable software for businesses in India and the US. That includes li
 
 <sub>Detailed case studies are available on request or at <a href="https://wlbs.dev">wlbs.dev</a>.</sub>
 
-## Before WLBS
+## Experience
 
+- **Tech Lead, Shabd AI (Dec 2025 – Apr 2026).** Led engineering on a multilingual translation platform that covers **22+ Indian languages** and serves banks and NBFCs. The work included voice AI and translation pipelines built on LLMs that can run multi-step tasks. Shabd AI was recognised at **India AI Summit 2026** as one of the *AI By Her Top 30 Startups*.
 - **Team Lead, Frontend, Depronto Infotech.** Led frontend delivery for a **leading Indian life insurer (BFSI)**. Made deployments **10x faster**, standardised TypeScript and ESLint across teams, and built test automation with Cypress and OpenCV. Trained 5+ engineers. The team delivered the most projects of any team despite being the smallest.
 - **Associate Software Engineer, Gupshup.** Built conversational chatbots for the **world's largest beverage company** and the **world's largest streaming platform**, along with support-automation tools.
 - **Earlier.** Full-stack and frontend roles across e-commerce, mobile and consumer web.
