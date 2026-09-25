@@ -1,7 +1,7 @@
 <h1>Anshul Laikar</h1>
 
 <p>
-  <b>Founder &amp; Lead Engineer, <a href="https://wlbs.dev">WLBS</a></b> · Tech Lead, <a href="https://Vogue Shots.in">Vogue Shots</a> · Mumbai
+  <b>Founder &amp; Lead Engineer, <a href="https://wlbs.dev">WLBS</a></b> · Tech Lead, <a href="https://vogueshots.in">Vogue Shots</a> · Mumbai
 </p>
 
 <p>
@@ -12,8 +12,8 @@
 
 I build dependable software for businesses in India and the US. That includes live event experiences for global consumer brands, AI translation for financial services, and IoT systems for agriculture. I care about three things: understanding the client's problem, engineering that holds up in production, and a product the client can run confidently after we hand it over.
 
-- **WLBS.** I founded WLBS in 2023. It is a technology consultancy that has delivered **6+ production products and 10+ websites** so far, with a team of five engineers. We also partner with leading Indian design studios to build their designs for production.
-- **Vogue Shots.** Since August 2026 I have been the Tech Lead for [Vogue Shots](https://Vogue Shots.in), working with them as a partner.
+- **Founder & Lead Engineer, [WLBS](https://wlbs.dev) (Nov 2023 – Present).** WLBS is a technology consultancy that has delivered **6+ production products and 10+ websites** so far, with a team of five engineers. We also partner with leading Indian design studios to build their designs for production.
+- **Tech Lead, [Vogue Shots](https://vogueshots.in) (Aug 2026 – Present).** I lead technology at Vogue Shots, working with them as a partner.
 
 ---
 
