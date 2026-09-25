@@ -29,7 +29,7 @@ I build dependable software for businesses in India and the US. That includes li
 | **Immersive headless storefront** | A headless Shopify store for a premium D2C brand | Built with Next.js 15, React 19 and Three.js, using compressed 3D assets and HDR lighting |
 | **[GST Invoicing by WLBS](https://apps.shopify.com/gst-invoicing-by-wlbs)** | A Shopify app for GST invoicing, approved by a Chartered Accountant | We built it because no existing tool met our clients' compliance needs. It is now available to all Shopify merchants |
 | **Automated SEO at scale** | A WordPress plugin that writes SEO descriptions from marketing guidelines | Covers every page on an e-commerce catalogue with no manual effort |
-| **Platform migrations** | Migrated a D2C brand from Shopify to WooCommerce, then back to Shopify | Moved 1,000+ orders and 5,000+ customer records without losing data, with custom plugins and email pipelines |
+| **Platform migrations** | Migrated a D2C brand from Shopify to WooCommerce | Moved 1,000+ orders and 5,000+ customer records without losing data, with custom plugins and email pipelines |
 
 <sub>Detailed case studies are available on request or at <a href="https://wlbs.dev">wlbs.dev</a>.</sub>
 
