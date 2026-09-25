@@ -36,7 +36,7 @@ I build dependable software for businesses in India and the US. That includes li
 ## Experience
 
 - **Tech Lead, Shabd AI (Dec 2025 – Apr 2026).** Led engineering on a multilingual translation platform that covers **22+ Indian languages** and serves banks and NBFCs. The work included voice AI and translation pipelines built on LLMs that can run multi-step tasks. Shabd AI was recognised at **India AI Summit 2026** as one of the *AI By Her Top 30 Startups*.
-- **Team Lead, Frontend, Depronto Infotech.** Led frontend delivery for a **leading Indian life insurer (BFSI)**. Made deployments **10x faster**, standardised TypeScript and ESLint across teams, and built test automation with Cypress and OpenCV. Trained 5+ engineers. The team delivered the most projects of any team despite being the smallest.
+- **Team Lead, Frontend, Depronto Infotech.** Led frontend delivery for a **leading Indian life insurer (BFSI)**. Made deployments **10x faster**, standardised TypeScript and ESLint across teams, and built test automation with Cypress and OpenCV. Trained 5+ engineers.
 - **Associate Software Engineer, Gupshup.** Built conversational chatbots for the **world's largest beverage company** and the **world's largest streaming platform**, along with support-automation tools.
 - **Earlier.** Full-stack and frontend roles across e-commerce, mobile and consumer web.
 
